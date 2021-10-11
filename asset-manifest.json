@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/gimbear/tnm095-rps-cnn.git/static/css/main.a617e044.chunk.css",
-    "main.js": "/gimbear/tnm095-rps-cnn.git/static/js/main.81bdefd6.chunk.js",
-    "main.js.map": "/gimbear/tnm095-rps-cnn.git/static/js/main.81bdefd6.chunk.js.map",
-    "runtime-main.js": "/gimbear/tnm095-rps-cnn.git/static/js/runtime-main.02225bd1.js",
-    "runtime-main.js.map": "/gimbear/tnm095-rps-cnn.git/static/js/runtime-main.02225bd1.js.map",
-    "static/js/2.db081b66.chunk.js": "/gimbear/tnm095-rps-cnn.git/static/js/2.db081b66.chunk.js",
-    "static/js/2.db081b66.chunk.js.map": "/gimbear/tnm095-rps-cnn.git/static/js/2.db081b66.chunk.js.map",
-    "static/js/3.a9b3aaf2.chunk.js": "/gimbear/tnm095-rps-cnn.git/static/js/3.a9b3aaf2.chunk.js",
-    "static/js/3.a9b3aaf2.chunk.js.map": "/gimbear/tnm095-rps-cnn.git/static/js/3.a9b3aaf2.chunk.js.map",
-    "index.html": "/gimbear/tnm095-rps-cnn.git/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/gimbear/tnm095-rps-cnn.git/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.db081b66.chunk.js.LICENSE.txt": "/gimbear/tnm095-rps-cnn.git/static/js/2.db081b66.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/gimbear/tnm095-rps-cnn.git/static/media/logo.6ce24c58.svg"
+    "main.css": "/gimbear/tnm095-rps-cnn/static/css/main.a617e044.chunk.css",
+    "main.js": "/gimbear/tnm095-rps-cnn/static/js/main.81bdefd6.chunk.js",
+    "main.js.map": "/gimbear/tnm095-rps-cnn/static/js/main.81bdefd6.chunk.js.map",
+    "runtime-main.js": "/gimbear/tnm095-rps-cnn/static/js/runtime-main.c099bdf8.js",
+    "runtime-main.js.map": "/gimbear/tnm095-rps-cnn/static/js/runtime-main.c099bdf8.js.map",
+    "static/js/2.db081b66.chunk.js": "/gimbear/tnm095-rps-cnn/static/js/2.db081b66.chunk.js",
+    "static/js/2.db081b66.chunk.js.map": "/gimbear/tnm095-rps-cnn/static/js/2.db081b66.chunk.js.map",
+    "static/js/3.a9b3aaf2.chunk.js": "/gimbear/tnm095-rps-cnn/static/js/3.a9b3aaf2.chunk.js",
+    "static/js/3.a9b3aaf2.chunk.js.map": "/gimbear/tnm095-rps-cnn/static/js/3.a9b3aaf2.chunk.js.map",
+    "index.html": "/gimbear/tnm095-rps-cnn/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/gimbear/tnm095-rps-cnn/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.db081b66.chunk.js.LICENSE.txt": "/gimbear/tnm095-rps-cnn/static/js/2.db081b66.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/gimbear/tnm095-rps-cnn/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.02225bd1.js",
+    "static/js/runtime-main.c099bdf8.js",
     "static/js/2.db081b66.chunk.js",
     "static/css/main.a617e044.chunk.css",
     "static/js/main.81bdefd6.chunk.js"
